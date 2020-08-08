@@ -1,6 +1,8 @@
 # 2020
 Design Portfolio 2020
 
-Runs on Node.js/Express.js and uses pure Vanilla JS to display portfolio as well as to run a full admin side.
+Uses Node.js/Express.js to handle admin side of the portfolio — create, write & update a small database JSON file & copy images to the needed directories when drag&dropped in the admin.
+
+Once the JSON "database" is created, it uses pure Vanilla JS/HTML to display a static portfolio site (public/index.html).
 
 Run by: nodemon app
