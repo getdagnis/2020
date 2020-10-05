@@ -12,7 +12,7 @@ const sendFetchRequest = async (method, url, data, head) => {
 launchAdmin(orderPortfolioByPositions);
 
 function launchAdmin(nextFunction) {
-  sendFetchRequest("GET", "https://getdagnis.github.io/2020/public/portfolio_full.json")
+  sendFetchRequest("GET", "/portfolio_full.json")
     .then((resData) => nextFunction(resData, true))
     .catch((err) => console.error("Error:", err));
 }
