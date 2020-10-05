@@ -5,7 +5,7 @@
     "title": "Board Game startup",
     "work": "Invented, Designed, Published",
     "year": "2015",
-    "description": "Mission to Mars 2049 is a board game startup that I launched in 2015. It successfully raised funds needed to get published via crowdfunding and several seed investment pitches. During 2016-2017 it debuted in several of the largest toy and board game conventions in the world, got published in seven languages, sold over 16k copies world-wide, got 7.2k FB fans and briefly reached Top 10 best-selling position in Germany and Top 20 in the UK before selling out the stock.",
+    "description": "I designed Mission to Mars 2049 board game in 2014 and published it in early 2016. The game successfully raised funds needed to get published via crowdfunding and several seed investment pitches. During 2016-2017 it debuted in several of the largest toy and board game conventions in the world, got published in seven languages, sold over 16k copies world-wide, got 7.2k FB fans and briefly reached Top 10 best-selling position in Germany and Top 20 in the UK before selling out of stock. Up until the end I remained the only person at the company doing everything from game design, web design, videos, social media, exhibitions, amazon, accounting etc.",
     "images": [
       "game_full_on_white_us.jpg",
       "image-0.jpg",
@@ -36,7 +36,7 @@
     "title": "Web Portal Startup",
     "work": "Founder, Editor, Designer",
     "year": "2003-2011",
-    "description": "satori description",
+    "description": "I started www.satori.lv web portal for literature and philosophy while still in high school, collaborating with various friends. It was the first media on the Latvian internet dedicated to creative &amp; critical thought and quickly gained more attention than we initially expected. Starting around 2005 I stepped down as the editor but remained to be the main graphic designer for the project until 2012 when it was taken over by new management.",
     "images": [
       "1-satori_paper_fourth.jpg",
       "2-birojnica_foto_outofboxarhictecture.jpg",
@@ -369,7 +369,7 @@
     "images": [],
     "allimages": [],
     "position": 23,
-    "show": "true"
+    "show": "false"
   },
   {
     "key": "rsu",
@@ -381,11 +381,11 @@
     "images": [],
     "allimages": [],
     "position": 24,
-    "show": "true"
+    "show": "false"
   },
   {
     "key": "saistoss",
-    "name": "saistoss name",
+    "name": "Publishing",
     "title": "saistoss - what it is",
     "work": "saistoss - what was done",
     "year": "saistoss year",
@@ -453,7 +453,7 @@
     "images": [],
     "allimages": [],
     "position": 30,
-    "show": "true"
+    "show": "false"
   },
   {
     "key": "kiki",
@@ -481,7 +481,7 @@
   },
   {
     "key": "urban",
-    "name": "urban name",
+    "name": "2007 and earlier",
     "title": "urban - what it is",
     "work": "urban - what was done",
     "year": "urban year",
@@ -501,7 +501,7 @@
     "images": [],
     "allimages": [],
     "position": 34,
-    "show": "true"
+    "show": "false"
   },
   {
     "key": "gagarin",
@@ -525,11 +525,11 @@
     "images": [],
     "allimages": [],
     "position": 36,
-    "show": "true"
+    "show": "false"
   },
   {
     "key": "atlant",
-    "name": "Atlant Moscow Region",
+    "name": "KHL logo proposals",
     "title": "Ice Hockey Club",
     "work": "Logo Proposals",
     "year": "2010",
