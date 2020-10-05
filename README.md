@@ -8,4 +8,4 @@ Once the JSON "database" is created, it uses pure Vanilla JS/HTML to display a s
 
 Clone & launch with: nodemon app
 
-Admin: /admin
+Admin: /public/admin
