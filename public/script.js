@@ -76,6 +76,10 @@ document.addEventListener("click", function (event) {
   if (event.target.classList.contains("button")) {
     contents();
   }
+
+  if (event.target.classList.contains("logo")) {
+    location.reload();
+  }
 });
 
 // Vada zilā laukuma staigāšanu pa gridu (sekošanu pelei)
