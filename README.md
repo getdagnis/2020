@@ -6,6 +6,8 @@ Uses Node.js/Express.js to handle the admin side of the portfolio (app.js & publ
 
 Once the JSON "database" is created, it uses pure Vanilla JS/HTML to display a static portfolio site (public/index.html).
 
-Clone & launch with: nodemon app
+Clone, npm install & launch with: node app
 
-Admin: /public/admin
+Admin: [localhost:port]/admin
+
+Drag'n'drop to reorder!
