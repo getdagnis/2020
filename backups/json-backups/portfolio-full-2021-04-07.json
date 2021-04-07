@@ -1,5 +1,36 @@
 [
   {
+    "key": "mars",
+    "name": "Mission to Mars 2049",
+    "title": "Board Game startup",
+    "work": "Invented, Designed, Published",
+    "year": "2015",
+    "description": "I designed Mission to Mars 2049 board game in 2014 and published it in early 2016. The game successfully raised funds needed to get published via crowdfunding and several seed investment pitches. During 2016-2017 it debuted in several of the largest toy and board game conventions in the world, got published in seven languages, sold over 16k copies world-wide, got 7.2k FB fans and briefly reached Top 10 best-selling position in Germany and Top 20 in the UK before selling out of stock. Up until the end I remained the only person at the company doing everything from game design, web design, videos, social media, exhibitions, amazon, accounting etc.",
+    "images": [
+      "game_full_on_white_us.jpg",
+      "image-0.jpg",
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg",
+      "image-6.jpg",
+      "image-7.jpg"
+    ],
+    "allimages": [
+      "image-0.jpg",
+      "image-1.jpg",
+      "image-2.jpg",
+      "image-3.jpg",
+      "image-4.jpg",
+      "image-5.jpg",
+      "image-6.jpg",
+      "image-7.jpg"
+    ],
+    "position": 0,
+    "show": "true"
+  },
+  {
     "key": "satori",
     "name": "¼ Satori",
     "title": "Web Portal Startup",
@@ -18,7 +49,7 @@
       "9-book_igltons_01.jpg"
     ],
     "allimages": [],
-    "position": 0,
+    "position": 1,
     "show": "true"
   },
   {
@@ -64,7 +95,7 @@
       "image-8.jpg",
       "image-9.jpg"
     ],
-    "position": 1,
+    "position": 2,
     "show": "true"
   },
   {
@@ -76,7 +107,7 @@
     "description": "basket description",
     "images": [],
     "allimages": [],
-    "position": 2,
+    "position": 3,
     "show": "true"
   },
   {
@@ -86,15 +117,9 @@
     "work": "logo, web, business cards, font",
     "year": "2006",
     "description": "made description",
-    "images": [
-      "_template.jpg",
-      "image-0.jpg"
-    ],
-    "allimages": [
-      "_template.jpg",
-      "image-0.jpg"
-    ],
-    "position": 3,
+    "images": ["_template.jpg", "image-0.jpg"],
+    "allimages": ["_template.jpg", "image-0.jpg"],
+    "position": 4,
     "show": "true"
   },
   {
@@ -106,37 +131,6 @@
     "description": "sponsor description",
     "images": [],
     "allimages": [],
-    "position": 4,
-    "show": "true"
-  },
-  {
-    "key": "mars",
-    "name": "Mission to Mars 2049",
-    "title": "Board Game startup",
-    "work": "Invented, Designed, Published",
-    "year": "2015",
-    "description": "I designed Mission to Mars 2049 board game in 2014 and published it in early 2016. The game successfully raised funds needed to get published via crowdfunding and several seed investment pitches. During 2016-2017 it debuted in several of the largest toy and board game conventions in the world, got published in seven languages, sold over 16k copies world-wide, got 7.2k FB fans and briefly reached Top 10 best-selling position in Germany and Top 20 in the UK before selling out of stock. Up until the end I remained the only person at the company doing everything from game design, web design, videos, social media, exhibitions, amazon, accounting etc.",
-    "images": [
-      "game_full_on_white_us.jpg",
-      "image-0.jpg",
-      "image-1.jpg",
-      "image-2.jpg",
-      "image-3.jpg",
-      "image-4.jpg",
-      "image-5.jpg",
-      "image-6.jpg",
-      "image-7.jpg"
-    ],
-    "allimages": [
-      "image-0.jpg",
-      "image-1.jpg",
-      "image-2.jpg",
-      "image-3.jpg",
-      "image-4.jpg",
-      "image-5.jpg",
-      "image-6.jpg",
-      "image-7.jpg"
-    ],
     "position": 5,
     "show": "true"
   },
@@ -195,10 +189,7 @@
     "work": "makslai - what was done",
     "year": "makslai year",
     "description": "makslai description",
-    "images": [
-      "1-mvt_canvas_mockup.jpg",
-      "2-foto_instagram_ilsteraivis_2.jpg"
-    ],
+    "images": ["1-mvt_canvas_mockup.jpg", "2-foto_instagram_ilsteraivis_2.jpg"],
     "allimages": [],
     "position": 10,
     "show": "true"
@@ -546,12 +537,8 @@
     "work": "liepaja - what was done",
     "year": "liepaja year",
     "description": "liepaja description",
-    "images": [
-      "image-0.jpg"
-    ],
-    "allimages": [
-      "image-0.jpg"
-    ],
+    "images": ["image-0.jpg"],
+    "allimages": ["image-0.jpg"],
     "position": 38,
     "show": "false"
   },
